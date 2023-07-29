@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eba9d101b0047d54587184dfa87bbe35, type: 3}
+  m_Name: Lighting Tower
+  m_EditorClassIdentifier: 
+  ButtonPicture: {fileID: 21300000, guid: 606a23f32d4144c448e5006bc31bf9b7, type: 3}
+  Cost: 50
+  TowerPicture: {fileID: 21300000, guid: 298636722737c4b41816506cd4bc994f, type: 3}
+  Type: 1
+  EnemyType: 2
+  FireSfx: {fileID: 0}
+  ProjectilePrefab: {fileID: 0}
+  FireRate: 120
+  RayWeaponPrefab: {fileID: 7707910041078117651, guid: 417738baf32f99546aa6692ca5d370c0, type: 3}
